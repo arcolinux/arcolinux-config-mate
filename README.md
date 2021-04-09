@@ -1,1 +1,1 @@
-# ArcoLinux-config for mate
+# ArcoLinux-config
